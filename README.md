@@ -1,4 +1,4 @@
-# SHA Payments Dashboard
+# SHA Payments Intelligence Dashboard
 
 A stakeholder-focused analytics dashboard built with NiceGUI, Polars, and ECharts to help county health teams explore and analyze SHA PHC payments made to health facilities.
 
